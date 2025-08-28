@@ -1,0 +1,121 @@
+[
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZoneId": "aps1-az2",
+    "Score": 3,
+    "AZName": "aps1-az2"
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZoneId": "aps1-az3",
+    "Score": 9,
+    "AZName": "aps1-az3"
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZoneId": "aps1-az1",
+    "Score": 9,
+    "AZName": "aps1-az1"
+  }
+]
+[
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1a",
+    "InstanceType": "m4.large",
+    "Prices": [
+      0.042800
+    ],
+    "Count": 1,
+    "AVGPrice": 0.0428,
+    "MaxPrice": 0.042800,
+    "MinPrice": 0.042800
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1a",
+    "InstanceType": "m5.large",
+    "Prices": [
+      0.033500
+    ],
+    "Count": 1,
+    "AVGPrice": 0.0335,
+    "MaxPrice": 0.033500,
+    "MinPrice": 0.033500
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1a",
+    "InstanceType": "m5.xlarge",
+    "Prices": [
+      0.053500,
+      0.053600
+    ],
+    "Count": 2,
+    "AVGPrice": 0.05355,
+    "MaxPrice": 0.053600,
+    "MinPrice": 0.053500
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1b",
+    "InstanceType": "m4.large",
+    "Prices": [
+      0.047900
+    ],
+    "Count": 1,
+    "AVGPrice": 0.0479,
+    "MaxPrice": 0.047900,
+    "MinPrice": 0.047900
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1b",
+    "InstanceType": "m5.large",
+    "Prices": [
+      0.032000
+    ],
+    "Count": 1,
+    "AVGPrice": 0.032,
+    "MaxPrice": 0.032000,
+    "MinPrice": 0.032000
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1b",
+    "InstanceType": "m5.xlarge",
+    "Prices": [
+      0.079200
+    ],
+    "Count": 1,
+    "AVGPrice": 0.0792,
+    "MaxPrice": 0.079200,
+    "MinPrice": 0.079200
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1c",
+    "InstanceType": "m5.large",
+    "Prices": [
+      0.036100
+    ],
+    "Count": 1,
+    "AVGPrice": 0.0361,
+    "MaxPrice": 0.036100,
+    "MinPrice": 0.036100
+  },
+  {
+    "Region": "ap-south-1",
+    "AvailabilityZone": "ap-south-1c",
+    "InstanceType": "m5.xlarge",
+    "Prices": [
+      0.059700,
+      0.060000
+    ],
+    "Count": 2,
+    "AVGPrice": 0.05985,
+    "MaxPrice": 0.060000,
+    "MinPrice": 0.059700
+  }
+]
+
