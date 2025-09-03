@@ -545,9 +545,7 @@ main() {
     fi
     
     # Check AMI availability globally before processing regions
-    set -x
     check_global_ami_availability "$ami_name" "$arch"
-    set +x
     # Determine instance types
     local instance_types
     if [[ -n "$instance_types_input" ]]; then
