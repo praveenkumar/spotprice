@@ -1,3 +1,5 @@
+***Disclaimer: Security remains under your responsibility and control.***
+
 # OpenShift Container Platform VM Creator
 
 An intelligent AWS spot instance provisioning tool specifically designed for OpenShift Container Platform (OCP) deployments. This script integrates with the existing spot allocation logic to create optimally priced VMs ready for OCP installation.
